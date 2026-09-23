@@ -1,0 +1,6 @@
+{
+  "name": "Konyang KLP Korean Interview Practice",
+  "description": "Professional Korean voice interview practice platform for Konyang University KLP admission, personalized for Ayon Barman Rupo with TTS, speech recognition, and mock interviews.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
